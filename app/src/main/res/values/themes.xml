@@ -1,0 +1,14 @@
+<resources>
+    <style name="Theme.CivilConvert" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#E65100</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#FFE0B2</item>
+        <item name="colorOnPrimaryContainer">#3E2723</item>
+        <item name="colorSecondary">#EF6C00</item>
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="android:statusBarColor">#E65100</item>
+        <item name="android:navigationBarColor">#E65100</item>
+        <item name="android:windowBackground">#FFF8F1</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
